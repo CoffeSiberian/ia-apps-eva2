@@ -1,0 +1,101 @@
+ID_Proyecto,Tipo_Proyecto,Duracion_Estimada_Meses,Tamaño_Equipo,Nivel_Complejidad,Tecnologias_Usadas,Experiencia_Equipo_Años,Presupuesto_Cliente_USD,Cobro_Proyecto_USD
+CHL-001,Desarrollo Web Corporativo,9,4,Alto,"Python, Node.js, Swift, React",4.7,21959,111991
+CHL-002,Desarrollo Web Corporativo,10,13,Bajo,"Ruby on Rails, React, Swift",8.9,71605,83228
+CHL-003,E-commerce Nacional,15,9,Medio,"Java, Vue.js",2.8,55607,61441
+CHL-004,Aplicación Móvil Financiera,14,8,Alto,"Flutter, Node.js, Python",2.0,63523,71682
+CHL-005,Aplicación Móvil Financiera,13,9,Alto,"Python, Swift",2.1,53687,54176
+CHL-006,Aplicación Móvil Financiera,9,9,Alto,"React, Python, Ruby on Rails",4.6,52081,36727
+CHL-007,Desarrollo Web Corporativo,6,10,Alto,"Java, PHP, Python",11.4,97835,103422
+CHL-008,Plataforma de Educación en Línea,18,14,Medio,"Vue.js, Node.js, React, Flutter",8.2,23710,43300
+CHL-009,Desarrollo Web Corporativo,17,3,Medio,"Java, Swift, Angular",9.4,31079,86946
+CHL-010,Plataforma de Educación en Línea,4,13,Bajo,"PHP, Java, Flutter",2.6,53228,62196
+CHL-011,Sistema ERP Local,3,13,Alto,"Java, Node.js",1.6,63955,42613
+CHL-012,Desarrollo Web Corporativo,5,13,Alto,"PHP, Vue.js, Swift",4.5,74942,113652
+CHL-013,Desarrollo Web Corporativo,6,4,Medio,"Flutter, Node.js, Ruby on Rails",6.5,47777,65841
+CHL-014,Desarrollo Web Corporativo,7,3,Bajo,"Vue.js, PHP",5.1,96846,17720
+CHL-015,Aplicación Móvil Financiera,15,9,Medio,"Swift, PHP",11.6,62488,53704
+CHL-016,Aplicación Móvil Financiera,4,14,Medio,"Vue.js, Node.js",4.2,82102,109609
+CHL-017,Plataforma de Educación en Línea,14,8,Bajo,"Ruby on Rails, Node.js, Vue.js",10.5,14809,73993
+CHL-018,Plataforma de Educación en Línea,14,15,Alto,"Swift, Java, PHP",2.7,69614,104435
+CHL-019,Desarrollo Web Corporativo,16,4,Alto,"Node.js, React",2.2,21542,118352
+CHL-020,Plataforma de Educación en Línea,18,6,Medio,"Flutter, Java, Ruby on Rails, Swift",6.7,51224,61968
+CHL-021,Aplicación Móvil Financiera,10,6,Medio,"Ruby on Rails, Swift",7.6,43082,62604
+CHL-022,Plataforma de Educación en Línea,2,6,Medio,"Vue.js, PHP, Flutter, Ruby on Rails",8.7,52372,98991
+CHL-023,Sistema ERP Local,5,11,Bajo,"Ruby on Rails, Node.js, PHP",3.1,25194,115860
+CHL-024,Aplicación Móvil Financiera,10,10,Bajo,"Python, Java, Node.js, Ruby on Rails",10.0,62976,119577
+CHL-025,Sistema ERP Local,12,5,Medio,"Python, PHP, Node.js",11.5,77449,97461
+CHL-026,Plataforma de Educación en Línea,5,9,Alto,"React, PHP, Flutter, Vue.js",2.4,10150,31936
+CHL-027,E-commerce Nacional,11,5,Alto,"Swift, Ruby on Rails, Angular",4.1,96200,76923
+CHL-028,Desarrollo Web Corporativo,15,7,Bajo,"Angular, Java, Swift",7.4,81118,16852
+CHL-029,Aplicación Móvil Financiera,7,10,Bajo,"Python, Vue.js, PHP, Angular",5.9,70552,28547
+CHL-030,Sistema ERP Local,16,6,Alto,"Swift, Ruby on Rails, Vue.js, Node.js",7.8,64165,77836
+CHL-031,E-commerce Nacional,2,4,Bajo,"PHP, Java",8.0,17104,89356
+CHL-032,E-commerce Nacional,10,10,Alto,"Python, React",9.6,34586,55515
+CHL-033,Aplicación Móvil Financiera,18,15,Medio,"Java, Angular",5.5,77952,25154
+CHL-034,Aplicación Móvil Financiera,7,11,Bajo,"Vue.js, Angular, Node.js, Ruby on Rails",11.0,57419,69711
+CHL-035,E-commerce Nacional,18,4,Medio,"Java, Node.js, Angular, Swift",4.6,91609,25069
+CHL-036,Desarrollo Web Corporativo,5,3,Bajo,"Python, React",7.7,75338,80937
+CHL-037,Desarrollo Web Corporativo,11,13,Bajo,"Node.js, Java",6.0,91973,71890
+CHL-038,Sistema ERP Local,18,11,Medio,"Flutter, Angular",7.5,67939,14011
+CHL-039,Desarrollo Web Corporativo,8,3,Medio,"Flutter, Java",2.1,16764,106692
+CHL-040,E-commerce Nacional,6,4,Bajo,"Angular, Python",11.6,36680,30894
+CHL-041,E-commerce Nacional,13,15,Medio,"Flutter, Swift, Ruby on Rails",2.5,45003,65736
+CHL-042,Plataforma de Educación en Línea,7,6,Alto,"Swift, Flutter, Node.js",9.5,81987,97823
+CHL-043,E-commerce Nacional,18,5,Alto,"Angular, Python, Swift, Java",8.1,27172,32232
+CHL-044,Desarrollo Web Corporativo,2,9,Medio,"Java, PHP, Angular",4.3,47752,21807
+CHL-045,Sistema ERP Local,12,10,Alto,"Java, PHP, Angular, React",2.4,67424,73537
+CHL-046,Plataforma de Educación en Línea,17,10,Alto,"PHP, Java, Swift, Python",4.0,73532,114436
+CHL-047,Desarrollo Web Corporativo,2,6,Alto,"Flutter, Vue.js, Python",7.3,25915,46737
+CHL-048,Sistema ERP Local,5,9,Bajo,"Java, Node.js",3.1,13783,56375
+CHL-049,Desarrollo Web Corporativo,13,3,Alto,"Python, Java, Vue.js, Flutter",5.8,92578,93691
+CHL-050,Plataforma de Educación en Línea,11,5,Alto,"Ruby on Rails, Flutter, Angular",8.7,89806,102794
+CHL-051,E-commerce Nacional,9,9,Medio,"React, Java, Node.js",6.4,41365,64098
+CHL-052,Plataforma de Educación en Línea,3,3,Alto,"Swift, React, Node.js",1.8,30758,97175
+CHL-053,E-commerce Nacional,9,9,Bajo,"React, Ruby on Rails, PHP",4.5,50730,22527
+CHL-054,Plataforma de Educación en Línea,4,7,Bajo,"Node.js, Flutter, Java",4.5,82199,55065
+CHL-055,Aplicación Móvil Financiera,4,15,Medio,"Java, PHP, Node.js",10.5,11792,100389
+CHL-056,Desarrollo Web Corporativo,17,15,Bajo,"React, Node.js, Ruby on Rails",2.2,82384,81942
+CHL-057,Desarrollo Web Corporativo,4,10,Bajo,"Node.js, Python, Angular, Vue.js",4.0,63476,61808
+CHL-058,Aplicación Móvil Financiera,6,7,Alto,"Flutter, React, Node.js, PHP",4.3,22217,53505
+CHL-059,E-commerce Nacional,6,9,Alto,"React, Vue.js, Node.js, Flutter",9.8,39451,94155
+CHL-060,Desarrollo Web Corporativo,17,14,Bajo,"Python, React, PHP",7.7,24871,106203
+CHL-061,Aplicación Móvil Financiera,7,14,Medio,"Ruby on Rails, Java, Angular",9.9,70482,111536
+CHL-062,Desarrollo Web Corporativo,10,15,Medio,"Ruby on Rails, Node.js, PHP",3.6,25396,75956
+CHL-063,Sistema ERP Local,18,11,Alto,"PHP, Vue.js, Angular",2.7,94896,82912
+CHL-064,E-commerce Nacional,15,13,Bajo,"Flutter, React",3.9,30181,16705
+CHL-065,Sistema ERP Local,8,14,Alto,"Java, Vue.js, React",3.1,75323,92931
+CHL-066,E-commerce Nacional,8,10,Medio,"Java, Swift",4.3,48254,20968
+CHL-067,Aplicación Móvil Financiera,11,5,Bajo,"Swift, Python",3.0,76698,42771
+CHL-068,E-commerce Nacional,14,6,Alto,"Python, Angular",2.1,45838,94727
+CHL-069,E-commerce Nacional,13,7,Alto,"Vue.js, Java, Angular, Ruby on Rails",9.8,64459,101705
+CHL-070,Aplicación Móvil Financiera,16,6,Medio,"Ruby on Rails, Python, Vue.js",7.7,73242,49667
+CHL-071,E-commerce Nacional,18,3,Alto,"PHP, Vue.js",10.2,71894,41817
+CHL-072,Desarrollo Web Corporativo,16,12,Medio,"React, PHP, Node.js, Java",11.2,41946,109880
+CHL-073,Plataforma de Educación en Línea,5,14,Medio,"Java, Vue.js, Swift, React",6.1,69871,23846
+CHL-074,Aplicación Móvil Financiera,9,11,Bajo,"PHP, Vue.js, React, Python",6.4,82255,68881
+CHL-075,Plataforma de Educación en Línea,9,3,Bajo,"Node.js, Ruby on Rails, Vue.js, PHP",4.7,28958,24903
+CHL-076,Aplicación Móvil Financiera,4,14,Alto,"Ruby on Rails, React, Node.js, Angular",5.7,60277,111663
+CHL-077,Aplicación Móvil Financiera,12,8,Medio,"Vue.js, Node.js, Ruby on Rails",4.4,34983,95066
+CHL-078,Sistema ERP Local,2,3,Medio,"Angular, Python, Node.js, Vue.js",7.2,88561,104260
+CHL-079,Sistema ERP Local,9,3,Bajo,"Flutter, PHP, Angular, Java",6.1,76616,25173
+CHL-080,E-commerce Nacional,9,12,Bajo,"Swift, PHP, Ruby on Rails",7.8,27892,70153
+CHL-081,Plataforma de Educación en Línea,2,10,Medio,"Vue.js, PHP",10.8,19150,33805
+CHL-082,Aplicación Móvil Financiera,4,11,Bajo,"Java, Angular, Node.js",9.2,46208,102964
+CHL-083,E-commerce Nacional,3,11,Alto,"React, Angular, Ruby on Rails",7.8,64387,51251
+CHL-084,Desarrollo Web Corporativo,9,5,Medio,"Angular, Java",1.8,54548,15794
+CHL-085,Aplicación Móvil Financiera,4,3,Bajo,"PHP, Ruby on Rails, Swift",3.9,76550,18028
+CHL-086,Desarrollo Web Corporativo,3,11,Alto,"PHP, Flutter, React, Swift",8.6,45018,54516
+CHL-087,E-commerce Nacional,12,4,Medio,"Vue.js, Java",10.5,10336,116352
+CHL-088,Sistema ERP Local,4,5,Alto,"Node.js, Angular, Java, Ruby on Rails",7.7,47072,19355
+CHL-089,E-commerce Nacional,18,4,Alto,"Angular, Swift, React",1.7,49132,50452
+CHL-090,Desarrollo Web Corporativo,9,12,Medio,"PHP, Java",9.5,86931,58984
+CHL-091,Aplicación Móvil Financiera,10,4,Alto,"Java, PHP, Ruby on Rails",10.1,86011,61131
+CHL-092,Plataforma de Educación en Línea,17,13,Bajo,"Flutter, Swift, Ruby on Rails",7.6,96499,68450
+CHL-093,E-commerce Nacional,8,6,Bajo,"Flutter, Ruby on Rails, Swift",9.5,74178,31080
+CHL-094,Aplicación Móvil Financiera,6,9,Bajo,"Angular, PHP, Flutter, Python",3.3,29476,44007
+CHL-095,Sistema ERP Local,17,4,Alto,"Vue.js, Java",6.9,68529,81621
+CHL-096,Sistema ERP Local,9,12,Bajo,"Vue.js, Flutter, Python",6.1,80592,66008
+CHL-097,Sistema ERP Local,17,6,Alto,"Java, Angular",4.4,73483,86177
+CHL-098,Aplicación Móvil Financiera,15,12,Bajo,"Swift, Flutter, PHP",12.0,55236,101364
+CHL-099,E-commerce Nacional,8,12,Medio,"Java, PHP",6.1,53573,115877
+CHL-100,Aplicación Móvil Financiera,5,3,Alto,"Ruby on Rails, Python",10.0,82340,35600
